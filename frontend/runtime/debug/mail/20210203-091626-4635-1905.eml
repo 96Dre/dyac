@@ -1,0 +1,57 @@
+Message-ID: <d7705e19bb1a2efc87cb4b92ee49083a@172.16.1.73>
+Date: Wed, 03 Feb 2021 09:16:23 -0500
+Subject: =?utf-8?Q?Verificaci=C3=B3n?= de email
+From: My Application - DYAC <dyac.app@gmail.com>
+To: johanna6069paguay@gmail.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="_=_swift_1612361783_880274979d66eab246b296ba494c6176_=_"
+
+
+--_=_swift_1612361783_880274979d66eab246b296ba494c6176_=_
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+
+Estimado, Johanna Paguay,
+
+Por favor, siga el enlace a continuaci=
+=C3=B3n para verificar su correo electr=C3=B3nico:
+
+http://172.16.1.73/=
+dyac/frontend/web/site/verify-email?token=3D4SE_fyCze6Z5ddHmOGJ93OGNKVomi61=
+c_1612361783
+
+--_=_swift_1612361783_880274979d66eab246b296ba494c6176_=_
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org=
+/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns=3D"http://www.w3.org/1999/=
+xhtml">
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/ht=
+ml; charset=3DUTF-8" />
+    <title></title>
+    </head>
+<body>
+    =
+    <div class=3D"verify-email">
+    <p>Estimado, Johanna Paguay,</p>
+=
+
+    <p>Por favor, siga el enlace a continuaci=C3=B3n para verificar su c=
+orreo electr=C3=B3nico:</p>
+
+    <p><a href=3D"http://172.16.1.73/dyac/=
+frontend/web/site/verify-email?token=3D4SE_fyCze6Z5ddHmOGJ93OGNKVomi61c_161=
+2361783">http://172.16.1.73/dyac/frontend/web/site/verify-email?token=3D4SE=
+_fyCze6Z5ddHmOGJ93OGNKVomi61c_1612361783</a></p>
+</div>
+    </body>
+<=
+/html>
+
+
+--_=_swift_1612361783_880274979d66eab246b296ba494c6176_=_--

@@ -1,0 +1,57 @@
+Message-ID: <687f64e25a5e80394d49ae9bbe4b95c0@172.16.1.73>
+Date: Wed, 24 Feb 2021 22:15:55 -0500
+Subject: =?utf-8?Q?Verificaci=C3=B3n?= de email
+From: My Application - DYAC <dyac@uazuay.edu.ec>
+To: PresenceSystem@gmail.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="_=_swift_1614222955_fbc1c441fd04899e6cef2de4c664bee9_=_"
+
+
+--_=_swift_1614222955_fbc1c441fd04899e6cef2de4c664bee9_=_
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+
+Estimado, Juan Tierra,
+
+Por favor, siga el enlace a continuaci=C3=
+=B3n para verificar su correo electr=C3=B3nico:
+
+http://172.16.1.73/dya=
+c/frontend/web/site/verify-email?token=3DK8YZdImD_tOOuFKPu1nvhRBKB9jZxk6B_1=
+614222955
+
+--_=_swift_1614222955_fbc1c441fd04899e6cef2de4c664bee9_=_
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org=
+/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns=3D"http://www.w3.org/1999/=
+xhtml">
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/ht=
+ml; charset=3DUTF-8" />
+    <title></title>
+    </head>
+<body>
+    =
+    <div class=3D"verify-email">
+    <p>Estimado, Juan Tierra,</p>
+
+ =
+   <p>Por favor, siga el enlace a continuaci=C3=B3n para verificar su corre=
+o electr=C3=B3nico:</p>
+
+    <p><a href=3D"http://172.16.1.73/dyac/fron=
+tend/web/site/verify-email?token=3DK8YZdImD_tOOuFKPu1nvhRBKB9jZxk6B_1614222=
+955">http://172.16.1.73/dyac/frontend/web/site/verify-email?token=3DK8YZdIm=
+D_tOOuFKPu1nvhRBKB9jZxk6B_1614222955</a></p>
+</div>
+    </body>
+</htm=
+l>
+
+
+--_=_swift_1614222955_fbc1c441fd04899e6cef2de4c664bee9_=_--

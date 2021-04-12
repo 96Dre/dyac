@@ -1,0 +1,55 @@
+Message-ID: <8f69ce7ba9d278c4203bb24519a133ef@localhost>
+Date: Mon, 28 Sep 2020 19:13:59 +0200
+Subject: Account registration at My Application
+From: My Application robot <support@example.com>
+To: qqq@tesis.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="_=_swift_1601313239_fffa4bf876d2fd76b4dd72384dbab94b_=_"
+
+
+--_=_swift_1601313239_fffa4bf876d2fd76b4dd72384dbab94b_=_
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+
+Hello qqq@tesis.com,
+
+Follow the link below to verify your email:
+=
+
+http://localhost/dyac/frontend/web/site/verify-email?token=3D8ivphRKQaaw=
+hscmjrZ-WpS1IvzJ9B4V5_1601313239
+
+--_=_swift_1601313239_fffa4bf876d2fd76b4dd72384dbab94b_=_
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org=
+/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns=3D"http://www.w3.org/1999/=
+xhtml">
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/ht=
+ml; charset=3DUTF-8" />
+    <title></title>
+    </head>
+<body>
+    =
+    <div class=3D"verify-email">
+    <p>Hello qqq@tesis.com,</p>
+
+   =
+ <p>Follow the link below to verify your email:</p>
+
+    <p><a href=3D"=
+http://localhost/dyac/frontend/web/site/verify-email?token=3D8ivphRKQaawhsc=
+mjrZ-WpS1IvzJ9B4V5_1601313239">http://localhost/dyac/frontend/web/site/veri=
+fy-email?token=3D8ivphRKQaawhscmjrZ-WpS1IvzJ9B4V5_1601313239</a></p>
+</di=
+v>
+    </body>
+</html>
+
+
+--_=_swift_1601313239_fffa4bf876d2fd76b4dd72384dbab94b_=_--

@@ -1,0 +1,55 @@
+Message-ID: <feac33e318ec58f7830aa52a9ae39cd9@104.154.95.186>
+Date: Sun, 04 Oct 2020 00:03:06 +0200
+Subject: Account registration at My Application
+From: My Application robot <dyac.app@gmail.com>
+To: esantycc@gmail.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="_=_swift_1601762586_615a80fd998d388a50fee2585028ed98_=_"
+
+
+--_=_swift_1601762586_615a80fd998d388a50fee2585028ed98_=_
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+
+Hello foto1 foto1,
+
+Follow the link below to verify your email:
+=
+
+http://104.154.95.186/dyac/backend/web/site/verify-email?token=3DUATPp83=
+VCgUAl82b8elHsH1Ijfb0tO2m_1601762586
+
+--_=_swift_1601762586_615a80fd998d388a50fee2585028ed98_=_
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org=
+/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns=3D"http://www.w3.org/1999/=
+xhtml">
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/ht=
+ml; charset=3DUTF-8" />
+    <title></title>
+    </head>
+<body>
+    =
+    <div class=3D"verify-email">
+    <p>Hello foto1 foto1,</p>
+
+    <=
+p>Follow the link below to verify your email:</p>
+
+    <p><a href=3D"ht=
+tp://104.154.95.186/dyac/backend/web/site/verify-email?token=3DUATPp83VCgUA=
+l82b8elHsH1Ijfb0tO2m_1601762586">http://104.154.95.186/dyac/backend/web/sit=
+e/verify-email?token=3DUATPp83VCgUAl82b8elHsH1Ijfb0tO2m_1601762586</a></p>=
+
+</div>
+    </body>
+</html>
+
+
+--_=_swift_1601762586_615a80fd998d388a50fee2585028ed98_=_--
