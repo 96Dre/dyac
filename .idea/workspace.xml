@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8adc207a-8841-47eb-adbd-075fb2d01b97" name="Default Changelist" comment="DYAC v1 final" />
+    <list default="true" id="8adc207a-8841-47eb-adbd-075fb2d01b97" name="Default Changelist" comment="DYAC v1 workspace final" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -157,7 +157,7 @@
       <workItem from="1618241307210" duration="1035000" />
       <workItem from="1618243641762" duration="912000" />
       <workItem from="1618244564566" duration="694000" />
-      <workItem from="1618245267741" duration="1865000" />
+      <workItem from="1618245267741" duration="1940000" />
     </task>
     <task id="LOCAL-00001" summary="Documentación y Archivo Científico v1 final">
       <created>1618208605637</created>
@@ -194,7 +194,14 @@
       <option name="project" value="LOCAL" />
       <updated>1618246986615</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="DYAC v1 workspace final">
+      <created>1618247322091</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1618247322091</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -237,6 +244,7 @@
     <MESSAGE value="Documentación y Archivo Científico v1 final" />
     <MESSAGE value="Revert &quot;Documentación y Archivo Científico v1 final&quot;&#10;&#10;This reverts commit 057225c9" />
     <MESSAGE value="DYAC v1 final" />
-    <option name="LAST_COMMIT_MESSAGE" value="DYAC v1 final" />
+    <MESSAGE value="DYAC v1 workspace final" />
+    <option name="LAST_COMMIT_MESSAGE" value="DYAC v1 workspace final" />
   </component>
 </project>
